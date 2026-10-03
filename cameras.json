@@ -379,5 +379,12 @@
     "town": "Vigo",
     "type": "rtsp_me",
     "url": "https://rtsp.me/embed/nzed5TQn/"
+  },
+  {
+    "name": "Prueba YouTube",
+    "province": "",
+    "town": "",
+    "type": "youtube",
+    "url": "c8zIbyeHMrU"
   }
 ]
