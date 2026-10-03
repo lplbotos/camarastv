@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Carballo – Praia da Pedra do Sal (Concello Carballo)",
+    "province": "A Coruña",
+    "town": "Carballo",
+    "type": "web",
+    "url": "https://ipcamlive.com/player/player.php?alias=pedradosal&autoplay=1&mute=1"
+  },
+  {
+    "name": "Carballo – Praia de Razo (Concello Carballo)",
+    "province": "A Coruña",
+    "town": "Carballo",
+    "type": "web",
+    "url": "https://ipcamlive.com/player/player.php?alias=praiaderazo&autoplay=1&mute=1"
+  },
+  {
+    "name": "A Coruña (CRTVG)",
+    "province": "A Coruña",
+    "town": "A Coruña",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/coruna/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "A Coruña – Cámara móbil (CRTVG)",
+    "province": "A Coruña",
+    "town": "A Coruña",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/mcoruna/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Ferrol (CRTVG)",
+    "province": "A Coruña",
+    "town": "Ferrol",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/ferrol/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Fisterra – Cabo de Fisterra (CRTVG)",
+    "province": "A Coruña",
+    "town": "Fisterra",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/fisterra/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Fisterra – Praia de Langosteira (Hispacams)",
+    "province": "A Coruña",
+    "town": "Fisterra",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/3htHTKKr/"
+  },
+  {
+    "name": "Malpica de Bergantiños – Zona portuaria (Skyline)",
+    "province": "A Coruña",
+    "town": "Malpica de Bergantiños",
+    "type": "web",
+    "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/provincia-de-la-coruna/malpica-de-bergantinos.html"
+  },
+  {
+    "name": "Muros – Puerto de Muros (Hispacams)",
+    "province": "A Coruña",
+    "town": "Muros",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/2zi2kQiQ/"
+  },
+  {
+    "name": "Muxía (CRTVG)",
+    "province": "A Coruña",
+    "town": "Muxía",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/muxia/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Ortigueira (CRTVG)",
+    "province": "A Coruña",
+    "town": "Ortigueira",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/ortigueira/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Catedral (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/catedral_nc/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Catedral 2 (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/catedral_nl/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Monte Pedroso (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/pedroso/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Plaza del Obradoiro (Ibericam)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://webcam-4.ibericam.com:5443/live/streams/santiago-de-compostela-plaza-del-obradoiro.m3u8",
+    "referer": "https://ibericam.com/"
+  },
+  {
+    "name": "Santiago de Compostela – Praza da Quintana (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/quintana/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Praza das Praterias (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/praterias/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – Praza do Obradoiro (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/obradoiro/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Santiago de Compostela – San Marcos (CRTVG)",
+    "province": "A Coruña",
+    "town": "Santiago de Compostela",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1554/hls/bando/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Valdoviño – Areal da Frouxeira (IPCamLive)",
+    "province": "A Coruña",
+    "town": "Valdoviño",
+    "type": "web",
+    "url": "https://ipcamlive.com/player/player.php?alias=valdovino&autoplay=1&mute=1"
+  },
+  {
+    "name": "Burela (Hispacams)",
+    "province": "Lugo",
+    "town": "Burela",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/BEiyZsYf/"
+  },
+  {
+    "name": "O Cebreiro (CRTVG)",
+    "province": "Lugo",
+    "town": "O Cebreiro",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/cebreiro/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Foz – Playa de la Rapadoira (Hispacams)",
+    "province": "Lugo",
+    "town": "Foz",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/RGz7K6Y4/"
+  },
+  {
+    "name": "Lugo (CRTVG)",
+    "province": "Lugo",
+    "town": "Lugo",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/lugo/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Portomarín (CRTVG)",
+    "province": "Lugo",
+    "town": "Portomarín",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/portomarin/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Ribadeo – Puente de los Santos (RC Náutico de Ribadeo)",
+    "province": "Lugo",
+    "town": "Ribadeo",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/TEsbennT/"
+  },
+  {
+    "name": "Ribadeo – Puerto de Ribadeo (RC Náutico de Ribadeo)",
+    "province": "Lugo",
+    "town": "Ribadeo",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/6QYaBsGS/"
+  },
+  {
+    "name": "Celanova (CRTVG)",
+    "province": "Ourense",
+    "town": "Celanova",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/celanova/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Manzaneda – Cabeza de Manzaneda (CRTVG)",
+    "province": "Ourense",
+    "town": "Manzaneda",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/manzaneda/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Manzaneda – Estación de esquí 1 (Manzaneda)",
+    "province": "Ourense",
+    "town": "Manzaneda",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/eSBbsS8r/"
+  },
+  {
+    "name": "Manzaneda – Estación de esquí 2 (Manzaneda)",
+    "province": "Ourense",
+    "town": "Manzaneda",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/rYD4dyhF/"
+  },
+  {
+    "name": "Ourense – Cámara fixa (CRTVG)",
+    "province": "Ourense",
+    "town": "Ourense",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/ourense/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Ourense – Cámara móbil (CRTVG)",
+    "province": "Ourense",
+    "town": "Ourense",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/mourense/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Quintela de Leirado – Cámara 1 (Hispacams)",
+    "province": "Ourense",
+    "town": "Quintela de Leirado",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/baZ7558Z/"
+  },
+  {
+    "name": "Quintela de Leirado – Cámara 2 (Hispacams)",
+    "province": "Ourense",
+    "town": "Quintela de Leirado",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/GseG6hHD/"
+  },
+  {
+    "name": "A Rúa (CRTVG)",
+    "province": "Ourense",
+    "town": "A Rúa",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/arua/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Verín (CRTVG)",
+    "province": "Ourense",
+    "town": "Verín",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1555/hls/verin/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Baiona (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Baiona",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/baiona/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "O Grove (CRTVG)",
+    "province": "Pontevedra",
+    "town": "O Grove",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/ogrove/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "A Guarda (CRTVG)",
+    "province": "Pontevedra",
+    "town": "A Guarda",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/aguarda/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Lalín (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Lalín",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/lalin/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Nigrán – Playa de Patos (Waira)",
+    "province": "Pontevedra",
+    "town": "Nigrán",
+    "type": "direct",
+    "url": "https://58f14c0895a20.streamlock.net/live/waira.stream/playlist.m3u8"
+  },
+  {
+    "name": "Noalla – Playa de A Lanzada (Camaramar)",
+    "province": "Pontevedra",
+    "town": "Noalla",
+    "type": "direct",
+    "url": "https://622a10e8864f7.streamlock.net/directo/noalla.stream/playlist.m3u8"
+  },
+  {
+    "name": "Pontevedra (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Pontevedra",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/pontevedra/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Portonovo (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Portonovo",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/portonovo/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Sanxenxo (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Sanxenxo",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/sanxenxo/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Sanxenxo – Cámara 1 (Hispacams)",
+    "province": "Pontevedra",
+    "town": "Sanxenxo",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/ZtENkk9Y/"
+  },
+  {
+    "name": "Sanxenxo – Cámara 2 (Hispacams)",
+    "province": "Pontevedra",
+    "town": "Sanxenxo",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/AEy2Ahn5/"
+  },
+  {
+    "name": "Tui (CRTVG)",
+    "province": "Pontevedra",
+    "town": "Tui",
+    "type": "direct",
+    "url": "https://www.crtvg.es:1556/hls/tui/index.m3u8",
+    "insecure_ssl": true
+  },
+  {
+    "name": "Vigo – Coruxo, Playa de O Vao y Toralla (Hispacams)",
+    "province": "Pontevedra",
+    "town": "Vigo",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/nzed5TQn/"
+  }
+]
