@@ -4,7 +4,7 @@
         "province": "A Coruña",
         "town": "A Coruña",
         "type": "web",
-        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_matadero"
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_matadero#id=97"
     },
     {
         "name": "Carballo – Praia da Pedra do Sal (Concello Carballo)",
@@ -20,6 +20,14 @@
         "type": "web",
         "url": "https://ipcamlive.com/player/player.php?alias=praiaderazo&autoplay=1&mute=1"
     },
+    {
+        "name": "Carballo – Pedra da sal (Leira) (vision-environnement)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "direct",
+        "url": "https://s169.ipcamlive.com/streams/a94vmoi9zzcvakju8/stream.m3u8",
+        "insecure_ssl": true
+    },	
     {
         "name": "A Coruña (CRTVG)",
         "province": "A Coruña",
@@ -59,6 +67,13 @@
         "type": "rtsp_me",
         "url": "https://rtsp.me/embed/3htHTKKr/"
     },
+	    {
+        "name": "Fisterra – Puerto (Hispacams)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/irH5ShN2/"
+    },	
     {
         "name": "Malpica de Bergantiños – Zona portuaria (Skyline)",
         "province": "A Coruña",
@@ -73,6 +88,13 @@
         "type": "rtsp_me",
         "url": "https://rtsp.me/embed/2zi2kQiQ/"
     },
+	    {
+        "name": "Muros – Puerto de Muros II (Hispacams)",
+        "province": "A Coruña",
+        "town": "Muros",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/seZ6at56/"
+    },	
     {
         "name": "Muxía (CRTVG)",
         "province": "A Coruña",
@@ -168,6 +190,13 @@
         "url": "https://rtsp.me/embed/BEiyZsYf/"
     },
     {
+        "name": "Burela - Praia do Portelo (vision-environnement)",
+        "province": "Lugo",
+        "town": "Burela",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/z2tN3n5E/"
+    },	
+    {
         "name": "O Cebreiro (CRTVG)",
         "province": "Lugo",
         "town": "O Cebreiro",
@@ -190,6 +219,13 @@
         "url": "https://www.crtvg.es:1555/hls/lugo/index.m3u8",
         "insecure_ssl": true
     },
+    {
+        "name": "Negueira de Muñiz - Webprincipal",
+        "province": "Lugo",
+        "town": "Negueira de Muñiz",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/ey2QiR5H/"
+    },	
     {
         "name": "Portomarín (CRTVG)",
         "province": "Lugo",
@@ -392,12 +428,19 @@
         "province": "Pontevedra",
         "town": "Vigo",
         "type": "rtsp_me",
-        "url": "https://rtsp.me/embed/nzed5TQn/"
+        "url": "https://rtsp.me/embed/nzed5TQn/"		
+    },
+	{
+        "name": "Vigo - Ria de Vigo - RiadeVigoCam",
+        "province": "Pontevedra",
+        "town": "Vigo",
+        "type": "youtube",
+        "url": "6wFjIFTyXTg"
     },
     {
-        "name": "Prueba YouTube",
-        "province": "",
-        "town": "",
+        "name": "Baiona - Cabo Silleiro",
+        "province": "Pontevedra",
+        "town": "Baiona",
         "type": "youtube",
         "url": "c8zIbyeHMrU"
     }
