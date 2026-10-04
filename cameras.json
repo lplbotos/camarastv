@@ -287,6 +287,20 @@
     "url": "https://www.camaramar.com/webcam/galicia_a-coruna_furnas#id=20"
   },
   {
+    "name": "Burela (Hispacams)",
+    "province": "Lugo",
+    "town": "Burela",
+    "type": "rtsp_me",
+    "url": "https://rtsp.me/embed/BEiyZsYf/"
+  },
+  {
+    "name": "Rianxo - Puerto (Hispacams)",
+    "province": "A Coruña",
+    "town": "Rianxo",
+    "type": "web",
+    "url": "https://www.hispacams.com/cam_embedded.php?id=000170"
+  },
+  {
     "name": "Ribeira – Playa de Coroso (Camaramar)",
     "province": "A Coruña",
     "town": "Ribeira",
