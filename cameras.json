@@ -1,748 +1,756 @@
 [
-  {
-    "name": "Arteixo – Playa de Barrañán (Camaramar)",
-    "province": "A Coruña",
-    "town": "Arteixo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_barranan#id=15"
-  },
-  {
-    "name": "Balieiros – Playa de Balieiros (Camaramar)",
-    "province": "A Coruña",
-    "town": "Balieiros",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_balieiros#id=1"
-  },
-  {
-    "name": "Bergondo – Playa de A Cabana (Camaramar)",
-    "province": "A Coruña",
-    "town": "Bergondo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_cabana#id=84"
-  },
-  {
-    "name": "Bergondo – Playa de Gandario (Camaramar)",
-    "province": "A Coruña",
-    "town": "Bergondo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_gandario#id=83"
-  },
-  {
-    "name": "Carballo – Pedra da sal (Leira) (vision-environnement)",
-    "province": "A Coruña",
-    "town": "Carballo",
-    "type": "direct",
-    "url": "https://s169.ipcamlive.com/streams/a94vmoi9zzcvakju8/stream.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Carballo – Playa de Baldaio (Camaramar)",
-    "province": "A Coruña",
-    "town": "Carballo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_baldaio#id=75"
-  },
-  {
-    "name": "Carballo – Playa de Razo (Camaramar)",
-    "province": "A Coruña",
-    "town": "Carballo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_razo#id=11"
-  },
-  {
-    "name": "Carballo – Praia da Pedra do Sal (Concello Carballo)",
-    "province": "A Coruña",
-    "town": "Carballo",
-    "type": "web",
-    "url": "https://ipcamlive.com/player/player.php?alias=pedradosal&autoplay=1&mute=1"
-  },
-  {
-    "name": "Carballo – Praia de Razo (Concello Carballo)",
-    "province": "A Coruña",
-    "town": "Carballo",
-    "type": "web",
-    "url": "https://ipcamlive.com/player/player.php?alias=praiaderazo&autoplay=1&mute=1"
-  },
-  {
-    "name": "Carnota – Playa de Carnota (Camaramar)",
-    "province": "A Coruña",
-    "town": "Carnota",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_carnota#id=56"
-  },
-  {
-    "name": "A Coruña – Cámara móbil (CRTVG)",
-    "province": "A Coruña",
-    "town": "A Coruña",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/mcoruna/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "A Coruña – Playa del Matadero (Camaramar)",
-    "province": "A Coruña",
-    "town": "A Coruña",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_matadero#id=97"
-  },
-  {
-    "name": "A Coruña (CRTVG)",
-    "province": "A Coruña",
-    "town": "A Coruña",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/coruna/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Dumbría – Playa de Ézaro (Camaramar)",
-    "province": "A Coruña",
-    "town": "Dumbría",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_ezaro#id=87"
-  },
-  {
-    "name": "Ferrol – Playa de Doniños (Camaramar)",
-    "province": "A Coruña",
-    "town": "Ferrol",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_doninos#id=31"
-  },
-  {
-    "name": "Ferrol – Playa de Doniños 2 (Camaramar)",
-    "province": "A Coruña",
-    "town": "Ferrol",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_doninosspotsurf#id=49"
-  },
-  {
-    "name": "Ferrol – Playa de Penencia (Camaramar)",
-    "province": "A Coruña",
-    "town": "Ferrol",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_penencia#id=76"
-  },
-  {
-    "name": "Ferrol (CRTVG)",
-    "province": "A Coruña",
-    "town": "Ferrol",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/ferrol/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Fisterra – Cabo de Fisterra (CRTVG)",
-    "province": "A Coruña",
-    "town": "Fisterra",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/fisterra/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Fisterra – Playa de Mar de Fora (Camaramar)",
-    "province": "A Coruña",
-    "town": "Fisterra",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_fora#id=21"
-  },
-  {
-    "name": "Fisterra – Praia de Langosteira (Hispacams)",
-    "province": "A Coruña",
-    "town": "Fisterra",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/3htHTKKr/"
-  },
-  {
-    "name": "Fisterra – Puerto (Hispacams)",
-    "province": "A Coruña",
-    "town": "Fisterra",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/irH5ShN2/"
-  },
-  {
-    "name": "Fisterra – Puerto de Fisterra (Camaramar)",
-    "province": "A Coruña",
-    "town": "Fisterra",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_puertofinisterre#id=46"
-  },
-  {
-    "name": "A Ladeira – Playa da Ladeira (Camaramar)",
-    "province": "A Coruña",
-    "town": "A Ladeira",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_ladeira#id=42"
-  },
-  {
-    "name": "A Lagoa – Playa da Lagoa (Camaramar)",
-    "province": "A Coruña",
-    "town": "A Lagoa",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_alagoa#id=89"
-  },
-  {
-    "name": "A Laracha – Playa de Caión (Camaramar)",
-    "province": "A Coruña",
-    "town": "A Laracha",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_caion#id=18"
-  },
-  {
-    "name": "A Laracha – Playa de Caión (Surf) (Camaramar)",
-    "province": "A Coruña",
-    "town": "A Laracha",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_caionsurf#id=74"
-  },
-  {
-    "name": "Malpica de Bergantiños – Playa de Malpica (Camaramar)",
-    "province": "A Coruña",
-    "town": "Malpica de Bergantiños",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_malpica#id=19"
-  },
-  {
-    "name": "Malpica de Bergantiños – Zona portuaria (Skyline)",
-    "province": "A Coruña",
-    "town": "Malpica de Bergantiños",
-    "type": "web",
-    "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/provincia-de-la-coruna/malpica-de-bergantinos.html"
-  },
-  {
-    "name": "Miño – Playa de Perbes (Camaramar)",
-    "province": "A Coruña",
-    "town": "Miño",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_perbes#id=96"
-  },
-  {
-    "name": "Muros – Puerto de Muros (Hispacams)",
-    "province": "A Coruña",
-    "town": "Muros",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/2zi2kQiQ/"
-  },
-  {
-    "name": "Muros – Puerto de Muros II (Hispacams)",
-    "province": "A Coruña",
-    "town": "Muros",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/seZ6at56/"
-  },
-  {
-    "name": "Muxía – Playa de Nemiña (Camaramar)",
-    "province": "A Coruña",
-    "town": "Muxía",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_nemina#id=90"
-  },
-  {
-    "name": "Muxía – Puerto de Muxía (Camaramar)",
-    "province": "A Coruña",
-    "town": "Muxía",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_muxia#id=57"
-  },
-  {
-    "name": "Muxía (CRTVG)",
-    "province": "A Coruña",
-    "town": "Muxía",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/muxia/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Oleiros – Playa de Bastiagueiro (Camaramar)",
-    "province": "A Coruña",
-    "town": "Oleiros",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_bastiagueiro#id=34"
-  },
-  {
-    "name": "Oleiros – Playa de Santa Cristina (Camaramar)",
-    "province": "A Coruña",
-    "town": "Oleiros",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_santacristina#id=82"
-  },
-  {
-    "name": "Ortigueira (CRTVG)",
-    "province": "A Coruña",
-    "town": "Ortigueira",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/ortigueira/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Porto do Son – Playa de Aguieira (Camaramar)",
-    "province": "A Coruña",
-    "town": "Porto do Son",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_aguieira#id=17"
-  },
-  {
-    "name": "Porto do Son – Playa de Furnas (Camaramar)",
-    "province": "A Coruña",
-    "town": "Porto do Son",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_furnas#id=20"
-  },
-  {
-    "name": "Ribeira – Playa de Coroso (Camaramar)",
-    "province": "A Coruña",
-    "town": "Ribeira",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_coroso#id=103"
-  },
-  {
-    "name": "Sada – Playa de Sada (Camaramar)",
-    "province": "A Coruña",
-    "town": "Sada",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_marinasada#id=73"
-  },
-  {
-    "name": "Santiago de Compostela – Catedral (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/catedral_nc/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – Catedral 2 (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/catedral_nl/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – Monte Pedroso (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/pedroso/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – Plaza del Obradoiro (Ibericam)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://webcam-4.ibericam.com:5443/live/streams/santiago-de-compostela-plaza-del-obradoiro.m3u8",
-    "referer": "https://ibericam.com/"
-  },
-  {
-    "name": "Santiago de Compostela – Praza da Quintana (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/quintana/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – Praza das Praterias (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/praterias/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – Praza do Obradoiro (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/obradoiro/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Santiago de Compostela – San Marcos (CRTVG)",
-    "province": "A Coruña",
-    "town": "Santiago de Compostela",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1554/hls/bando/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Valdoviño – Areal da Frouxeira (IPCamLive)",
-    "province": "A Coruña",
-    "town": "Valdoviño",
-    "type": "web",
-    "url": "https://ipcamlive.com/player/player.php?alias=valdovino&autoplay=1&mute=1"
-  },
-  {
-    "name": "Valdoviño – Areal do Rodo, Pantín (IPCamLive)",
-    "province": "A Coruña",
-    "town": "Valdoviño",
-    "type": "direct",
-    "url": "https://s91.ipcamlive.com/streams/5bfkhy91gnapervjg/stream.m3u8"
-  },
-  {
-    "name": "Valdoviño – Playa de Pantín (Camaramar)",
-    "province": "A Coruña",
-    "town": "Valdoviño",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_pantin#id=41"
-  },
-  {
-    "name": "Valdoviño – Playa de Valdoviño (Camaramar)",
-    "province": "A Coruña",
-    "town": "Valdoviño",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_a-coruna_valdovino#id=12"
-  },
-  {
-    "name": "Burela (Hispacams)",
-    "province": "Lugo",
-    "town": "Burela",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/BEiyZsYf/"
-  },
-  {
-    "name": "Burela - Praia do Portelo (vision-environnement)",
-    "province": "Lugo",
-    "town": "Burela",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/z2tN3n5E/"
-  },
-  {
-    "name": "O Cebreiro (CRTVG)",
-    "province": "Lugo",
-    "town": "O Cebreiro",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/cebreiro/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Covas – Playa de Covas (Camaramar)",
-    "province": "Lugo",
-    "town": "Covas",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_lugo_covas#id=43"
-  },
-  {
-    "name": "Foz – Playa da Rapadoira (Camaramar)",
-    "province": "Lugo",
-    "town": "Foz",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_lugo_foz#id=55"
-  },
-  {
-    "name": "Foz – Playa de la Rapadoira (Hispacams)",
-    "province": "Lugo",
-    "town": "Foz",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/RGz7K6Y4/"
-  },
-  {
-    "name": "Lugo (CRTVG)",
-    "province": "Lugo",
-    "town": "Lugo",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/lugo/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Negueira de Muñiz - Webprincipal",
-    "province": "Lugo",
-    "town": "Negueira de Muñiz",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/ey2QiR5H/"
-  },
-  {
-    "name": "Portomarín (CRTVG)",
-    "province": "Lugo",
-    "town": "Portomarín",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/portomarin/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Ribadeo – Illa Pancha (Camaramar)",
-    "province": "Lugo",
-    "town": "Ribadeo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_lugo_illapancha#id=67"
-  },
-  {
-    "name": "Ribadeo – Puente de los Santos (RC Náutico de Ribadeo)",
-    "province": "Lugo",
-    "town": "Ribadeo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/TEsbennT/"
-  },
-  {
-    "name": "Ribadeo – Puerto de Ribadeo (RC Náutico de Ribadeo)",
-    "province": "Lugo",
-    "town": "Ribadeo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/6QYaBsGS/"
-  },
-  {
-    "name": "San Román – Playa de San Román (Area Grande) (Camaramar)",
-    "province": "Lugo",
-    "town": "San Román",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_lugo_sanroman#id=44"
-  },
-  {
-    "name": "Celanova (CRTVG)",
-    "province": "Ourense",
-    "town": "Celanova",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/celanova/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Manzaneda – Cabeza de Manzaneda (CRTVG)",
-    "province": "Ourense",
-    "town": "Manzaneda",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/manzaneda/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Manzaneda – Estación de esquí 1 (Manzaneda)",
-    "province": "Ourense",
-    "town": "Manzaneda",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/eSBbsS8r/"
-  },
-  {
-    "name": "Manzaneda – Estación de esquí 2 (Manzaneda)",
-    "province": "Ourense",
-    "town": "Manzaneda",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/rYD4dyhF/"
-  },
-  {
-    "name": "Ourense – Cámara fixa (CRTVG)",
-    "province": "Ourense",
-    "town": "Ourense",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/ourense/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Ourense – Cámara móbil (CRTVG)",
-    "province": "Ourense",
-    "town": "Ourense",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/mourense/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Quintela de Leirado – Cámara 1 (Hispacams)",
-    "province": "Ourense",
-    "town": "Quintela de Leirado",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/baZ7558Z/"
-  },
-  {
-    "name": "Quintela de Leirado – Cámara 2 (Hispacams)",
-    "province": "Ourense",
-    "town": "Quintela de Leirado",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/GseG6hHD/"
-  },
-  {
-    "name": "A Rúa (CRTVG)",
-    "province": "Ourense",
-    "town": "A Rúa",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/arua/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Verín (CRTVG)",
-    "province": "Ourense",
-    "town": "Verín",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1555/hls/verin/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Agrelo – Playa de Agrelo (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Agrelo",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_agrelo#id=79"
-  },
-  {
-    "name": "Baiona (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Baiona",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_baiona#id=101"
-  },
-  {
-    "name": "Baiona (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Baiona",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/baiona/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Baiona - Cabo Silleiro",
-    "province": "Pontevedra",
-    "town": "Baiona",
-    "type": "youtube",
-    "url": "c8zIbyeHMrU"
-  },
-  {
-    "name": "Cangas – Playa de Menduiña (Ría de Aldán) (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Cangas",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_menduina#id=78"
-  },
-  {
-    "name": "Cangas – Playa de Rodeira (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Cangas",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_rodeira#id=88"
-  },
-  {
-    "name": "Combarro – Playa de A Seca (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Combarro",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_seca#id=77"
-  },
-  {
-    "name": "O Grove (CRTVG)",
-    "province": "Pontevedra",
-    "town": "O Grove",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/ogrove/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "A Guarda (CRTVG)",
-    "province": "Pontevedra",
-    "town": "A Guarda",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/aguarda/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Lalín (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Lalín",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/lalin/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Nigrán – Playa América (panorámica)",
-    "province": "Pontevedra",
-    "town": "Nigrán",
-    "type": "direct",
-    "url": "https://streaming.turismoriasbaixas.com/streaming/channel101.m3u8?access-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWQiOjMsIm5hbWUiOiJhZG1pbiIsInJvbCI6ImFkbWluIiwiaWF0IjoxNjYyMDE1NzU1LCJleHAiOjE2NjIwMTkzNTV9.HxXwPA5MrIVB9PCYhTWsMEXsUOIy_JNbEOuuW3BvjAw"
-  },
-  {
-    "name": "Nigrán – Playa de Patos (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Nigrán",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_patos#id=24"
-  },
-  {
-    "name": "Nigrán – Playa de Patos (Waira)",
-    "province": "Pontevedra",
-    "town": "Nigrán",
-    "type": "direct",
-    "url": "https://58f14c0895a20.streamlock.net/live/waira.stream/playlist.m3u8"
-  },
-  {
-    "name": "Noalla – Playa de A Lanzada (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Noalla",
-    "type": "direct",
-    "url": "https://622a10e8864f7.streamlock.net/directo/noalla.stream/playlist.m3u8"
-  },
-  {
-    "name": "Noalla – Playa de A Lanzada (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Noalla",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_lanzada#id=9"
-  },
-  {
-    "name": "Noalla – Playa de A Lanzada Sur (Camaramar)",
-    "province": "Pontevedra",
-    "town": "Noalla",
-    "type": "web",
-    "url": "https://www.camaramar.com/webcam/galicia_pontevedra_lanzadasur#id=58"
-  },
-  {
-    "name": "Pontevedra (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Pontevedra",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/pontevedra/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Portonovo – Club Náutico (Hispacams)",
-    "province": "Pontevedra",
-    "town": "Portonovo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/iHNy62rN/"
-  },
-  {
-    "name": "Portonovo (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Portonovo",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/portonovo/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Sanxenxo – Cámara 1 (Hispacams)",
-    "province": "Pontevedra",
-    "town": "Sanxenxo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/ZtENkk9Y/"
-  },
-  {
-    "name": "Sanxenxo – Cámara 2 (Hispacams)",
-    "province": "Pontevedra",
-    "town": "Sanxenxo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/AEy2Ahn5/"
-  },
-  {
-    "name": "Sanxenxo (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Sanxenxo",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/sanxenxo/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Tui (CRTVG)",
-    "province": "Pontevedra",
-    "town": "Tui",
-    "type": "direct",
-    "url": "https://www.crtvg.es:1556/hls/tui/index.m3u8",
-    "insecure_ssl": true
-  },
-  {
-    "name": "Vigo – Coruxo, Playa de O Vao y Toralla (Hispacams)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "rtsp_me",
-    "url": "https://rtsp.me/embed/nzed5TQn/"
-  },
-  {
-    "name": "Vigo - Ria de Vigo - RiadeVigoCam",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "6wFjIFTyXTg"
-  }
+    {
+        "name": "Arteixo – Playa de Barrañán (Camaramar)",
+        "province": "A Coruña",
+        "town": "Arteixo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_barranan#id=15"
+    },
+    {
+        "name": "Balieiros – Playa de Balieiros (Camaramar)",
+        "province": "A Coruña",
+        "town": "Balieiros",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_balieiros#id=1"
+    },
+    {
+        "name": "Bergondo – Playa de A Cabana (Camaramar)",
+        "province": "A Coruña",
+        "town": "Bergondo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_cabana#id=84"
+    },
+    {
+        "name": "Bergondo – Playa de Gandario (Camaramar)",
+        "province": "A Coruña",
+        "town": "Bergondo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_gandario#id=83"
+    },
+    {
+        "name": "Carballo – Pedra da sal (Leira) (vision-environnement)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "direct",
+        "url": "https://s169.ipcamlive.com/streams/a94vmoi9zzcvakju8/stream.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Carballo – Playa de Baldaio (Camaramar)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_baldaio#id=75"
+    },
+    {
+        "name": "Carballo – Playa de Razo (Camaramar)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_razo#id=11"
+    },
+    {
+        "name": "Carballo – Praia da Pedra do Sal (Concello Carballo)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "web",
+        "url": "https://ipcamlive.com/player/player.php?alias=pedradosal&autoplay=1&mute=1"
+    },
+    {
+        "name": "Carballo – Praia de Razo (Concello Carballo)",
+        "province": "A Coruña",
+        "town": "Carballo",
+        "type": "web",
+        "url": "https://ipcamlive.com/player/player.php?alias=praiaderazo&autoplay=1&mute=1"
+    },
+    {
+        "name": "Carnota – Playa de Carnota (Camaramar)",
+        "province": "A Coruña",
+        "town": "Carnota",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_carnota#id=56"
+    },
+    {
+        "name": "A Coruña – Cámara móbil (CRTVG)",
+        "province": "A Coruña",
+        "town": "A Coruña",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/mcoruna/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "A Coruña – Playa del Matadero (Camaramar)",
+        "province": "A Coruña",
+        "town": "A Coruña",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_matadero#id=97"
+    },
+    {
+        "name": "A Coruña (CRTVG)",
+        "province": "A Coruña",
+        "town": "A Coruña",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/coruna/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Dumbría – Playa de Ézaro (Camaramar)",
+        "province": "A Coruña",
+        "town": "Dumbría",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_ezaro#id=87"
+    },
+    {
+        "name": "Ferrol – Playa de Doniños (Camaramar)",
+        "province": "A Coruña",
+        "town": "Ferrol",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_doninos#id=31"
+    },
+    {
+        "name": "Ferrol – Playa de Doniños 2 (Camaramar)",
+        "province": "A Coruña",
+        "town": "Ferrol",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_doninosspotsurf#id=49"
+    },
+    {
+        "name": "Ferrol – Playa de Penencia (Camaramar)",
+        "province": "A Coruña",
+        "town": "Ferrol",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_penencia#id=76"
+    },
+    {
+        "name": "Ferrol (CRTVG)",
+        "province": "A Coruña",
+        "town": "Ferrol",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/ferrol/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Fisterra – Cabo de Fisterra (CRTVG)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/fisterra/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Fisterra – Playa de Mar de Fora (Camaramar)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_fora#id=21"
+    },
+    {
+        "name": "Fisterra – Praia de Langosteira (Hispacams)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/3htHTKKr/"
+    },
+    {
+        "name": "Fisterra – Puerto (Hispacams)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/irH5ShN2/"
+    },
+    {
+        "name": "Fisterra – Puerto de Fisterra (Camaramar)",
+        "province": "A Coruña",
+        "town": "Fisterra",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_puertofinisterre#id=46"
+    },
+    {
+        "name": "A Ladeira – Playa da Ladeira (Camaramar)",
+        "province": "A Coruña",
+        "town": "A Ladeira",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_ladeira#id=42"
+    },
+    {
+        "name": "A Lagoa – Playa da Lagoa (Camaramar)",
+        "province": "A Coruña",
+        "town": "A Lagoa",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_alagoa#id=89"
+    },
+    {
+        "name": "A Laracha – Playa de Caión (Camaramar)",
+        "province": "A Coruña",
+        "town": "A Laracha",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_caion#id=18"
+    },
+    {
+        "name": "A Laracha – Playa de Caión (Surf) (Camaramar)",
+        "province": "A Coruña",
+        "town": "A Laracha",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_caionsurf#id=74"
+    },
+    {
+        "name": "Malpica de Bergantiños – Playa de Malpica (Camaramar)",
+        "province": "A Coruña",
+        "town": "Malpica de Bergantiños",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_malpica#id=19"
+    },
+    {
+        "name": "Malpica de Bergantiños – Zona portuaria (Skyline)",
+        "province": "A Coruña",
+        "town": "Malpica de Bergantiños",
+        "type": "web",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/provincia-de-la-coruna/malpica-de-bergantinos.html"
+    },
+    {
+        "name": "Miño – Playa de Perbes (Camaramar)",
+        "province": "A Coruña",
+        "town": "Miño",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_perbes#id=96"
+    },
+    {
+        "name": "Muros – Puerto de Muros (Hispacams)",
+        "province": "A Coruña",
+        "town": "Muros",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/2zi2kQiQ/"
+    },
+    {
+        "name": "Muros – Puerto de Muros II (Hispacams)",
+        "province": "A Coruña",
+        "town": "Muros",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/seZ6at56/"
+    },
+    {
+        "name": "Muxía – Playa de Nemiña (Camaramar)",
+        "province": "A Coruña",
+        "town": "Muxía",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_nemina#id=90"
+    },
+    {
+        "name": "Muxía – Puerto de Muxía (Camaramar)",
+        "province": "A Coruña",
+        "town": "Muxía",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_muxia#id=57"
+    },
+    {
+        "name": "Muxía (CRTVG)",
+        "province": "A Coruña",
+        "town": "Muxía",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/muxia/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Oleiros – Playa de Bastiagueiro (Camaramar)",
+        "province": "A Coruña",
+        "town": "Oleiros",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_bastiagueiro#id=34"
+    },
+    {
+        "name": "Oleiros – Playa de Santa Cristina (Camaramar)",
+        "province": "A Coruña",
+        "town": "Oleiros",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_santacristina#id=82"
+    },
+    {
+        "name": "Ortigueira (CRTVG)",
+        "province": "A Coruña",
+        "town": "Ortigueira",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/ortigueira/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Porto do Son – Playa de Aguieira (Camaramar)",
+        "province": "A Coruña",
+        "town": "Porto do Son",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_aguieira#id=17"
+    },
+    {
+        "name": "Porto do Son – Playa de Furnas (Camaramar)",
+        "province": "A Coruña",
+        "town": "Porto do Son",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_furnas#id=20"
+    },
+    {
+        "name": "Ribeira – Playa de Coroso (Camaramar)",
+        "province": "A Coruña",
+        "town": "Ribeira",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_coroso#id=103"
+    },
+    {
+        "name": "Sada – Playa de Sada (Camaramar)",
+        "province": "A Coruña",
+        "town": "Sada",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_marinasada#id=73"
+    },
+    {
+        "name": "Santiago de Compostela – Catedral (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/catedral_nc/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – Catedral 2 (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/catedral_nl/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – Monte Pedroso (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/pedroso/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – Plaza del Obradoiro (Ibericam)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://webcam-4.ibericam.com:5443/live/streams/santiago-de-compostela-plaza-del-obradoiro.m3u8",
+        "referer": "https://ibericam.com/"
+    },
+    {
+        "name": "Santiago de Compostela – Praza da Quintana (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/quintana/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – Praza das Praterias (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/praterias/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – Praza do Obradoiro (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/obradoiro/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Santiago de Compostela – San Marcos (CRTVG)",
+        "province": "A Coruña",
+        "town": "Santiago de Compostela",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1554/hls/bando/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Valdoviño – Areal da Frouxeira (IPCamLive)",
+        "province": "A Coruña",
+        "town": "Valdoviño",
+        "type": "web",
+        "url": "https://ipcamlive.com/player/player.php?alias=valdovino&autoplay=1&mute=1"
+    },
+    {
+        "name": "Valdoviño – Areal do Rodo, Pantín (IPCamLive)",
+        "province": "A Coruña",
+        "town": "Valdoviño",
+        "type": "direct",
+        "url": "https://s91.ipcamlive.com/streams/5bfkhy91gnapervjg/stream.m3u8"
+    },
+    {
+        "name": "Valdoviño – Playa de Pantín (Camaramar)",
+        "province": "A Coruña",
+        "town": "Valdoviño",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_pantin#id=41"
+    },
+    {
+        "name": "Valdoviño – Playa de Valdoviño (Camaramar)",
+        "province": "A Coruña",
+        "town": "Valdoviño",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_a-coruna_valdovino#id=12"
+    },
+    {
+        "name": "Burela (Hispacams)",
+        "province": "Lugo",
+        "town": "Burela",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/BEiyZsYf/"
+    },
+    {
+        "name": "Burela - Praia do Portelo (vision-environnement)",
+        "province": "Lugo",
+        "town": "Burela",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/z2tN3n5E/"
+    },
+    {
+        "name": "O Cebreiro (CRTVG)",
+        "province": "Lugo",
+        "town": "O Cebreiro",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/cebreiro/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Covas – Playa de Covas (Camaramar)",
+        "province": "Lugo",
+        "town": "Covas",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_lugo_covas#id=43"
+    },
+    {
+        "name": "Foz – Playa da Rapadoira (Camaramar)",
+        "province": "Lugo",
+        "town": "Foz",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_lugo_foz#id=55"
+    },
+    {
+        "name": "Foz – Playa de la Rapadoira (Hispacams)",
+        "province": "Lugo",
+        "town": "Foz",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/RGz7K6Y4/"
+    },
+    {
+        "name": "Lugo (CRTVG)",
+        "province": "Lugo",
+        "town": "Lugo",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/lugo/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Negueira de Muñiz - Webprincipal",
+        "province": "Lugo",
+        "town": "Negueira de Muñiz",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/ey2QiR5H/"
+    },
+    {
+        "name": "Portomarín (CRTVG)",
+        "province": "Lugo",
+        "town": "Portomarín",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/portomarin/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Ribadeo – Illa Pancha (Camaramar)",
+        "province": "Lugo",
+        "town": "Ribadeo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_lugo_illapancha#id=67"
+    },
+    {
+        "name": "Ribadeo – Puente de los Santos (RC Náutico de Ribadeo)",
+        "province": "Lugo",
+        "town": "Ribadeo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/TEsbennT/"
+    },
+    {
+        "name": "Ribadeo – Puerto de Ribadeo (RC Náutico de Ribadeo)",
+        "province": "Lugo",
+        "town": "Ribadeo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/6QYaBsGS/"
+    },
+    {
+        "name": "San Román – Playa de San Román (Area Grande) (Camaramar)",
+        "province": "Lugo",
+        "town": "San Román",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_lugo_sanroman#id=44"
+    },
+    {
+        "name": "Viveiro – Jardines Noriega Varela y Puente de A Misericordia (Hispacams)",
+        "province": "Lugo",
+        "town": "Viveiro",
+        "type": "web",
+        "url": "https://v.angelcam.com/iframe?v=enr0e6z7l8&autoplay=1",
+        "referer": "https://www.hispacams.com/"
+    },
+    {
+        "name": "Celanova (CRTVG)",
+        "province": "Ourense",
+        "town": "Celanova",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/celanova/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Manzaneda – Cabeza de Manzaneda (CRTVG)",
+        "province": "Ourense",
+        "town": "Manzaneda",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/manzaneda/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Manzaneda – Estación de esquí 1 (Manzaneda)",
+        "province": "Ourense",
+        "town": "Manzaneda",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/eSBbsS8r/"
+    },
+    {
+        "name": "Manzaneda – Estación de esquí 2 (Manzaneda)",
+        "province": "Ourense",
+        "town": "Manzaneda",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/rYD4dyhF/"
+    },
+    {
+        "name": "Ourense – Cámara fixa (CRTVG)",
+        "province": "Ourense",
+        "town": "Ourense",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/ourense/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Ourense – Cámara móbil (CRTVG)",
+        "province": "Ourense",
+        "town": "Ourense",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/mourense/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Quintela de Leirado – Cámara 1 (Hispacams)",
+        "province": "Ourense",
+        "town": "Quintela de Leirado",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/baZ7558Z/"
+    },
+    {
+        "name": "Quintela de Leirado – Cámara 2 (Hispacams)",
+        "province": "Ourense",
+        "town": "Quintela de Leirado",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/GseG6hHD/"
+    },
+    {
+        "name": "A Rúa (CRTVG)",
+        "province": "Ourense",
+        "town": "A Rúa",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/arua/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Verín (CRTVG)",
+        "province": "Ourense",
+        "town": "Verín",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1555/hls/verin/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Agrelo – Playa de Agrelo (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Agrelo",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_agrelo#id=79"
+    },
+    {
+        "name": "Baiona (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Baiona",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_baiona#id=101"
+    },
+    {
+        "name": "Baiona (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Baiona",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/baiona/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Baiona - Cabo Silleiro",
+        "province": "Pontevedra",
+        "town": "Baiona",
+        "type": "youtube",
+        "url": "c8zIbyeHMrU"
+    },
+    {
+        "name": "Cangas – Playa de Menduiña (Ría de Aldán) (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Cangas",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_menduina#id=78"
+    },
+    {
+        "name": "Cangas – Playa de Rodeira (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Cangas",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_rodeira#id=88"
+    },
+    {
+        "name": "Combarro – Playa de A Seca (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Combarro",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_seca#id=77"
+    },
+    {
+        "name": "O Grove (CRTVG)",
+        "province": "Pontevedra",
+        "town": "O Grove",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/ogrove/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "A Guarda (CRTVG)",
+        "province": "Pontevedra",
+        "town": "A Guarda",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/aguarda/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Lalín (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Lalín",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/lalin/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Nigrán – Playa América (panorámica)",
+        "province": "Pontevedra",
+        "town": "Nigrán",
+        "type": "direct",
+        "url": "https://streaming.turismoriasbaixas.com/streaming/channel101.m3u8?access-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwiaWQiOjMsIm5hbWUiOiJhZG1pbiIsInJvbCI6ImFkbWluIiwiaWF0IjoxNjYyMDE1NzU1LCJleHAiOjE2NjIwMTkzNTV9.HxXwPA5MrIVB9PCYhTWsMEXsUOIy_JNbEOuuW3BvjAw"
+    },
+    {
+        "name": "Nigrán – Playa de Patos (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Nigrán",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_patos#id=24"
+    },
+    {
+        "name": "Nigrán – Playa de Patos (Waira)",
+        "province": "Pontevedra",
+        "town": "Nigrán",
+        "type": "direct",
+        "url": "https://58f14c0895a20.streamlock.net/live/waira.stream/playlist.m3u8"
+    },
+    {
+        "name": "Noalla – Playa de A Lanzada (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Noalla",
+        "type": "direct",
+        "url": "https://622a10e8864f7.streamlock.net/directo/noalla.stream/playlist.m3u8"
+    },
+    {
+        "name": "Noalla – Playa de A Lanzada (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Noalla",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_lanzada#id=9"
+    },
+    {
+        "name": "Noalla – Playa de A Lanzada Sur (Camaramar)",
+        "province": "Pontevedra",
+        "town": "Noalla",
+        "type": "web",
+        "url": "https://www.camaramar.com/webcam/galicia_pontevedra_lanzadasur#id=58"
+    },
+    {
+        "name": "Pontevedra (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Pontevedra",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/pontevedra/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Portonovo – Club Náutico (Hispacams)",
+        "province": "Pontevedra",
+        "town": "Portonovo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/iHNy62rN/"
+    },
+    {
+        "name": "Portonovo (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Portonovo",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/portonovo/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Sanxenxo – Cámara 1 (Hispacams)",
+        "province": "Pontevedra",
+        "town": "Sanxenxo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/ZtENkk9Y/"
+    },
+    {
+        "name": "Sanxenxo – Cámara 2 (Hispacams)",
+        "province": "Pontevedra",
+        "town": "Sanxenxo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/AEy2Ahn5/"
+    },
+    {
+        "name": "Sanxenxo (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Sanxenxo",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/sanxenxo/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Tui (CRTVG)",
+        "province": "Pontevedra",
+        "town": "Tui",
+        "type": "direct",
+        "url": "https://www.crtvg.es:1556/hls/tui/index.m3u8",
+        "insecure_ssl": true
+    },
+    {
+        "name": "Vigo – Coruxo, Playa de O Vao y Toralla (Hispacams)",
+        "province": "Pontevedra",
+        "town": "Vigo",
+        "type": "rtsp_me",
+        "url": "https://rtsp.me/embed/nzed5TQn/"
+    },
+    {
+        "name": "Vigo - Ria de Vigo - RiadeVigoCam",
+        "province": "Pontevedra",
+        "town": "Vigo",
+        "type": "youtube",
+        "url": "6wFjIFTyXTg"
+    }
 ]
