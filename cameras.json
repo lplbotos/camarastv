@@ -86,20 +86,6 @@
     "insecure_ssl": true
   },
   {
-    "name": "Dumbría – Fervenza do Ézaro 1 (Concello)",
-    "province": "A Coruña",
-    "town": "Dumbría",
-    "type": "web",
-    "url": "http://213.98.123.127:1111/cgi-bin/guestimage.html"
-  },
-  {
-    "name": "Dumbría – Fervenza do Ézaro 2 (Concello)",
-    "province": "A Coruña",
-    "town": "Dumbría",
-    "type": "web",
-    "url": "http://213.98.123.127:8050/cgi-bin/guestimage.html"
-  },
-  {
     "name": "Dumbría – Playa de Ézaro (Camaramar)",
     "province": "A Coruña",
     "town": "Dumbría",
@@ -402,8 +388,8 @@
     "name": "Valdoviño – Areal do Rodo, Pantín (IPCamLive)",
     "province": "A Coruña",
     "town": "Valdoviño",
-    "type": "direct",
-    "url": "https://s91.ipcamlive.com/streams/5bsywoh3rza09e2mv/stream.m3u8"
+    "type": "web",
+    "url": "https://ipcamlive.com/player/player.php?alias=pantin&autoplay=1&mute=1"
   },
   {
     "name": "Valdoviño – Playa de Pantín (Camaramar)",
@@ -641,13 +627,6 @@
     "insecure_ssl": true
   },
   {
-    "name": "Baiona – Cabo Silleiro",
-    "province": "Pontevedra",
-    "town": "Baiona",
-    "type": "youtube",
-    "url": "qzVmyqOuoJI"
-  },
-  {
     "name": "Baiona – Cabo Silleiro (emisión actual)",
     "province": "Pontevedra",
     "town": "Baiona",
@@ -674,13 +653,6 @@
     "town": "Combarro",
     "type": "web",
     "url": "https://www.camaramar.com/webcam/galicia_pontevedra_seca#id=77"
-  },
-  {
-    "name": "O Grove – Webcam do Concello",
-    "province": "Pontevedra",
-    "town": "O Grove",
-    "type": "direct",
-    "url": "https://www.concellodogrove.es/js/index.m3u8.php"
   },
   {
     "name": "O Grove (CRTVG)",
@@ -815,83 +787,6 @@
     "town": "Vigo",
     "type": "rtsp_me",
     "url": "https://rtsp.me/embed/nzed5TQn/"
-  },
-  {
-    "name": "Vigo – Tráfico: Av. Castrelos – Palacios (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "ZVgz2e-wMR4"
-  },
-  {
-    "name": "Vigo – Tráfico: Avenida de Madrid (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "XGzncIaJJ44"
-  },
-  {
-    "name": "Vigo – Tráfico: Castelao – O Grove (Coia) (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "xrYXDI5uAoA"
-  },
-  {
-    "name": "Vigo – Tráfico: Gran Vía – Lepanto (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "KmcLujr7PU0"
-  },
-  {
-    "name": "Vigo – Tráfico: Gran Vía – Tarragona (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "2vDowXZy9cc"
-  },
-  {
-    "name": "Vigo – Tráfico: Gran Vía – Tarragona 2 (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "ii_PElrmCwE"
-  },
-  {
-    "name": "Vigo – Tráfico: Pizarro – Varela (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "gfsJIcCZzlI"
-  },
-  {
-    "name": "Vigo – Tráfico: Plaza América (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "z1E5ciDe3a0"
-  },
-  {
-    "name": "Vigo – Tráfico: Plaza de España (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "f5gxcYb0XCg"
-  },
-  {
-    "name": "Vigo – Tráfico: Travesía de Vigo – Gregorio Espino (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "eMbMc7VnI5Q"
-  },
-  {
-    "name": "Vigo – Tráfico: Venezuela – Granada (Concello de Vigo)",
-    "province": "Pontevedra",
-    "town": "Vigo",
-    "type": "youtube",
-    "url": "qtFXKPN0xkQ"
   },
   {
     "name": "Vigo – Ría de Vigo (RiadeVigoCam)",
